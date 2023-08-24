@@ -12,10 +12,9 @@ Repo for Module 10 challenge
 - [SQLAlchemy](https://www.sqlalchemy.org/)
 - [Flask](https://flask.palletsprojects.com/en/2.3.x/)
 - [SQLite](https://www.sqlite.org/docs.html)
-
 - [StackOverflow](https://stackoverflow.com/)
 
 
-### Code Used
+## Code Used
 - Flask code used for line 14, starting from "connect_args" from [here](https://stackoverflow.com/questions/15140554/programmingerror-thread-error-in-sqlalchemy)
 - Flask code referenced in line 120 from [here]https://stackoverflow.com/questions/71724579/row-is-not-json-serializable-error-when-sending-result-set-to-a-flask-view)
